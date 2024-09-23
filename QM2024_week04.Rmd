@@ -1,7 +1,7 @@
 ---
-title: "QM 2023 Week 4: OLS Basics"
-author: "Oliver Rittmann<br>Domantas Undzėnas"
-date: "September 28 | 29, 2023"
+title: "QM 2024 Week 4: OLS Basics"
+author: "Domantas Undzėnas<br>Lisa-Marie Müller"
+date: "September 26 | 27, 2024"
 output:
   html_document:
     toc: yes
@@ -89,7 +89,7 @@ if (stargazer_opt == "html"){
 }
 
 # set the seed for replicability
-set.seed(2023)
+set.seed(2024)
 ```
 
 # Writing Functions
